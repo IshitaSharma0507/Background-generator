@@ -1,0 +1,16 @@
+body{
+	font-family:cursive;
+	text-align:center;
+	text-transform:uppercase;
+	background:linear-gradient(to right,#7886A1,#F4627F);
+}
+h1{
+    font-size:2em;
+}
+h2{
+	font-size: 1em;
+	text-decoration-line:underline;
+}
+h3{
+    font size:20px;
+}
